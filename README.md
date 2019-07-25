@@ -10,7 +10,8 @@ dependancy- jupyter notebook, numpy, pandas, scipy, open-cv and skit-learn.
 dataset link- https://www.kaggle.com/c/tiny-imagenet/data
 the desingned network is developed for general purpose computer. Dataset contains 200 object classes and each object has 500 images for training purpose. model is developed on tensorflow framework contains convolution layer for extracting the feature from an image and fullyconnected layer with softmax regression in order to choose appropriate features.
 
-3. ######Audio Analysis using deep learning#######
+3. #######Audio Analysis using deep learning######///[Himanshu kumar], [Chetan Chawla]. 
+   #### reference link- https://www.analyticsvidhya.com/blog/2017/08/audio-voice-processing-deep-learning/
 The Urban Sound challenge was floated and the problem is meant to introduce for audio processing in the usual classification scenario. 
 -model is implemented on keras framework and librose librairy is used for loding .wav file in the model.
 Step 1: Load audio files
@@ -30,3 +31,4 @@ gun shot,
 jackhammer,
 siren, and
 street music
+
