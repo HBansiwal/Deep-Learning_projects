@@ -31,7 +31,8 @@ gun shot,
 jackhammer,
 siren, and
 street music
- 4. #####NLP(multi_classification)######
- dataset link-https://drive.google.com/drive/folders/13TuJvgEcWlUY7-q7TSld6P4K7J0C1R1U
- the objective is  to Train models to predict gender, category,sub_cat,sub_sub_cat of the product. In the given dataset "title" and   "desciption" use as input for pridiction of several categories
+
+4. #####NLP(multi_classification)######
+dataset link-https://drive.google.com/drive/folders/13TuJvgEcWlUY7-q7TSld6P4K7J0C1R1U
+the objective is  to Train models to predict gender, category,sub_cat,sub_sub_cat of the product. In the given dataset "title" and   "desciption" use as input for pridiction of several categories
  
