@@ -39,3 +39,10 @@ generated_output links-https://drive.google.com/file/d/1ievkLH2Zy7_C4HXpWBfIumn5
 https://drive.google.com/file/d/1cNrj_i3r40T7938dSFvc_GXtmisbf8kb/view?usp=sharing
 https://drive.google.com/file/d/1ruWPQHwyzNRVvupbAMnstTJCsI-0EEub/view?usp=sharing
 https://drive.google.com/file/d/1Z5wAXpyGtfIZR2GLTfST1OmGIWw1u3xQ/view?usp=sharing 
+
+5. ######NLP(multi-text-classification)####
+dataset link-https://drive.google.com/open?id=1xOLj5hcJ9E_h_CGCi0J13ZUA_u5sRHf5
+cateories- tech, bussiness, sport label, politics, entertainment
+model- tensorflow used in backend of keras and RNN is used to predict the category
+accuracy achieved- 80.003%
+notebook link- https://colab.research.google.com/drive/1m_CkbBm5EdKCRjAL-tmGUWVdQbqCNQAk
