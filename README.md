@@ -42,7 +42,7 @@ https://drive.google.com/file/d/1Z5wAXpyGtfIZR2GLTfST1OmGIWw1u3xQ/view?usp=shari
 
 5. ######NLP(multi-text-classification)####
 dataset link-https://drive.google.com/open?id=1xOLj5hcJ9E_h_CGCi0J13ZUA_u5sRHf5
-cateories- tech, bussiness, sport label, politics, entertainment
+categories- tech, business, sport label, politics, entertainment
 model- tensorflow used in backend of keras and RNN is used to predict the category
 accuracy achieved- 80.003%
 notebook link- https://colab.research.google.com/drive/1m_CkbBm5EdKCRjAL-tmGUWVdQbqCNQAk
